@@ -11,3 +11,6 @@ A small app to allow you to subscribe to daily/weekly SMS messages containing on
 * Build up list on Gist
 * Parse markdown turn into content appropriate for SMS
 * Might need to get shortlinks from Bitly or some other service.
+* Reply for another fact
+* Categories
+* Track facts sent to users so there are no repeats
