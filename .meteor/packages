@@ -10,3 +10,5 @@ preserve-inputs
 bootstrap3-sass
 coffeescript
 scss
+jquery
+underscore
