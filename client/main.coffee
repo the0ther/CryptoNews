@@ -1,0 +1,1 @@
+console.log 'This is working coffeescript inside meteor!!!!'
